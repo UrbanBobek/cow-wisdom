@@ -1,0 +1,5 @@
+# Remove these lines to remove the wise cow from your terminal
+if [ $((1 + $RANDOM % 5)) -eq 2 ]
+then
+fortune | cowsay
+fi
