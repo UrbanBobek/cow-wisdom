@@ -7,4 +7,6 @@ Run the following commands to get a quote from a wise cow every fifth (or so) ti
   source ~/.bashrc
  ```
 
+![Things wise cow says](https://github.com/UrbanBobek/cow-wisdom/blob/main/.images/wise-cow.png?raw=true)
 
+![Crazy right?](https://github.com/UrbanBobek/cow-wisdom/blob/main/.images/wise-cow-2.png?raw=true)
